@@ -1,4 +1,4 @@
-let url = 'ws://10.6.13.86:3000'
+let url = 'ws://10.6.13.86:3001'
 
 if(process.argv.length > 2) {
   url = process.argv[2]
